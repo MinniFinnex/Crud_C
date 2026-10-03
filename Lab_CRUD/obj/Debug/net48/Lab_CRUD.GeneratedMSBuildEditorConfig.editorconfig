@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = mylogin
+build_property.ProjectDir = /home/yfinne/Escritorio/Lab_CRUD/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
